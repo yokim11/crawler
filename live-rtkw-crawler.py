@@ -140,15 +140,5 @@ if __name__ == "__main__":
         content.append(create_message('ZUM', craw_zum()))
 
         send_teamroom(''.join(content))
+
         sleep(5*60)
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
